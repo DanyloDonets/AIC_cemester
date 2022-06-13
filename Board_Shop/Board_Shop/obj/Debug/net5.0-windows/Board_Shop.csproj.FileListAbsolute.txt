@@ -1,0 +1,5 @@
+C:\Users\endob\source\repos\Board_Shop\Board_Shop\obj\Debug\net5.0-windows\Board_Shop.csprojAssemblyReference.cache
+C:\Users\endob\source\repos\Board_Shop\Board_Shop\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\endob\source\repos\Board_Shop\Board_Shop\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\endob\source\repos\Board_Shop\Board_Shop\obj\Debug\net5.0-windows\Board_Shop_MarkupCompile.cache
+C:\Users\endob\source\repos\Board_Shop\Board_Shop\obj\Debug\net5.0-windows\Board_Shop_MarkupCompile.lref
